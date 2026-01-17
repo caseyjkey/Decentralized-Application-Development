@@ -1,0 +1,6 @@
+[submodule "ipfs-music-player"]
+	path = ipfs-music-player
+	url = https://github.com/caseyjkey/ipfs-music-player.git
+[submodule "the-payment-pals"]
+	path = the-payment-pals
+	url = https://github.com/caseyjkey/the-payment-pals.git
