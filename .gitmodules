@@ -4,3 +4,9 @@
 [submodule "the-payment-pals"]
 	path = the-payment-pals
 	url = https://github.com/caseyjkey/the-payment-pals.git
+[submodule "audio-player"]
+	path = audio-player
+	url = git@github.com:caseyjkey/audio-player.git
+[submodule "decentralized-websites"]
+	path = decentralized-websites
+	url = git@github.com:caseyjkey/decentralized-websites.git
