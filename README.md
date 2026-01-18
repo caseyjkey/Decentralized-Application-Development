@@ -1,5 +1,3 @@
-I have enough information from the execution plan to create a comprehensive README. Based on the plan, the "Decentralized-Application-Development" monorepo consolidates three blockchain/web3 projects. Let me create the README.md.
-
 # Decentralized Application Development
 
 A curated collection of blockchain, Web3, and decentralized application projects exploring distributed ledger technology, smart contracts, peer-to-peer protocols, and decentralized storage.
